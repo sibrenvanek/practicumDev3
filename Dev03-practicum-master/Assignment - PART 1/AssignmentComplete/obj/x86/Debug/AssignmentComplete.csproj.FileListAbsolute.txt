@@ -1,0 +1,120 @@
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\AssignmentComplete.exe.config
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\background.xnb
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\ikea.xnb
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\mine.xnb
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\mine_cart.xnb
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\ore_container.xnb
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\product_box.xnb
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\product_container.xnb
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\volvo.xnb
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\background.png
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\ikea.png
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\mine.png
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\mine_cart.png
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\ore_container.png
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\product_box.png
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\product_container.png
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\volvo.png
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\AssignmentComplete.exe
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\AssignmentComplete.pdb
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.dll
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.xml
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\obj\x86\Debug\AssignmentComplete.csprojResolveAssemblyReference.cache
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\obj\x86\Debug\AssignmentComplete.exe
+C:\Users\Jessica\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\obj\x86\Debug\AssignmentComplete.pdb
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\AssignmentComplete.exe.config
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\obj\x86\Debug\AssignmentComplete.exe
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\obj\x86\Debug\AssignmentComplete.pdb
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\background.xnb
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\ikea.xnb
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\mine.xnb
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\mine_cart.xnb
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\ore_container.xnb
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\product_box.xnb
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\product_container.xnb
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\volvo.xnb
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\background.png
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\ikea.png
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\mine.png
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\mine_cart.png
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\ore_container.png
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\product_box.png
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\product_container.png
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\volvo.png
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\AssignmentComplete.exe
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\AssignmentComplete.pdb
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.dll
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.xml
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\jessi\OneDrive\Documenten\School\INFDEV02-3 practicum\Assignment\2016-2017\C#\Assignment - PART 1\AssignmentComplete\obj\x86\Debug\AssignmentComplete.csprojResolveAssemblyReference.cache
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\background.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\ikea.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\mine.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\mine_cart.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\ore_container.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\product_box.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\product_container.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\volvo.xnb
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\background.png
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\ikea.png
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\mine.png
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\mine_cart.png
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\ore_container.png
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\product_box.png
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\product_container.png
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\Content\volvo.png
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\AssignmentComplete.exe.config
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\AssignmentComplete.exe
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\AssignmentComplete.pdb
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.dll
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.xml
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\obj\x86\Debug\AssignmentComplete.csprojResolveAssemblyReference.cache
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\obj\x86\Debug\AssignmentComplete.exe
+C:\Users\sibre\OneDrive\Documenten\studie\development 3\Dev03-practicum-master jessica\Assignment - PART 1\AssignmentComplete\obj\x86\Debug\AssignmentComplete.pdb

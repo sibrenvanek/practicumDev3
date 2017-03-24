@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/sibre/OneDrive/Documenten/studie/development 3/Dev03-practicum-master jessica/Assignment - PART 1/AssignmentComplete/Content/background.png</File>
+    <File>C:/Users/sibre/OneDrive/Documenten/studie/development 3/Dev03-practicum-master jessica/Assignment - PART 1/AssignmentComplete/Content/ikea.png</File>
+    <File>C:/Users/sibre/OneDrive/Documenten/studie/development 3/Dev03-practicum-master jessica/Assignment - PART 1/AssignmentComplete/Content/mine.png</File>
+    <File>C:/Users/sibre/OneDrive/Documenten/studie/development 3/Dev03-practicum-master jessica/Assignment - PART 1/AssignmentComplete/Content/mine_cart.png</File>
+    <File>C:/Users/sibre/OneDrive/Documenten/studie/development 3/Dev03-practicum-master jessica/Assignment - PART 1/AssignmentComplete/Content/ore_container.png</File>
+    <File>C:/Users/sibre/OneDrive/Documenten/studie/development 3/Dev03-practicum-master jessica/Assignment - PART 1/AssignmentComplete/Content/product_box.png</File>
+    <File>C:/Users/sibre/OneDrive/Documenten/studie/development 3/Dev03-practicum-master jessica/Assignment - PART 1/AssignmentComplete/Content/product_container.png</File>
+    <File>C:/Users/sibre/OneDrive/Documenten/studie/development 3/Dev03-practicum-master jessica/Assignment - PART 1/AssignmentComplete/Content/volvo.png</File>
+  </SourceFiles>
+</SourceFileCollection>
